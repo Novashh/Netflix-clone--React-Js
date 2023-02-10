@@ -1,6 +1,6 @@
 # Netflix-Clone React-Js Project
 
-# Functinal Hooks
+# Functional Hooks
 # fetch Api TMDB Site
 # Axios
 
